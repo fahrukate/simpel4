@@ -1,1 +1,14 @@
-# simpel4
+# ~~~~
+$ pkg update && pkg updgrade
+
+$ pkg install python
+
+$ pkg install git
+
+$ git clone https://github.com/fahrukate/simpel
+
+$ cd simpel4
+
+$ pip install -r requirements.txt
+
+$ python zx.py
