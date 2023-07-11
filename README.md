@@ -5,7 +5,7 @@ $ pkg install python
 
 $ pkg install git
 
-$ git clone https://github.com/fahrukate/simpel
+$ git clone https://github.com/fahrukate/simpel4
 
 $ cd simpel4
 
