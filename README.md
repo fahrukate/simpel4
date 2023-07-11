@@ -5,7 +5,7 @@ $ pkg install python
 
 $ pkg install git
 
-cd /sdcard
+$ cd /sdcard
 
 $ git clone https://github.com/fahrukate/simpel4
 
